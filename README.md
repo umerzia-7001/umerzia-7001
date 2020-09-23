@@ -1,14 +1,15 @@
 ### Hi there 👋
 ## I am Umer Zia 
+### Enthusiast  learner available for collaborating on any project . Hit me up to collaborate !
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on deeplearning , machine learning 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: [Linkdin - @muhammadumerzia](www.linkedin.com/in/muhammad-umer-zia)
-[Linkdin - @muhammadumerzia](https://linkedin.com/in/muhammad-umer-zia)
+- 🔭 I’m currently working on Ios developmnet and Deeplearning 
+
+- 👯 I’m looking to collaborate on deeplearning or making Ios app  
+-
+- 📫 How to reach me: [Linkdin](https://linkedin.com/in/muhammad-umer-zia)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzia-7001&layout=compact?&theme=radical)
