@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on deeplearning or making Ios app  
 
-- 📫 How to reach me: [Linkdin](https://linkedin.com/in/muhammad-umer-zia)
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/muhammad-umer-zia)
 
 
 
