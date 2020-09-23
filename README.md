@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzia-7001&layout=compact?&theme=radical)
 
-![umer's github stats](https://github-readme-stats.vercel.app/api?username=umerzia-7001)
+![umer's github stats](https://github-readme-stats.vercel.app/api?username=umerzia-7001&theme=radical)
 
 
 
