@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Ios developmnet and Deeplearning 
+- 🔭 I’m currently working on Ios development and Deeplearning 
 
 - 👯 I’m looking to collaborate on deeplearning or making Ios app  
 
