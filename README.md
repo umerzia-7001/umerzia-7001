@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Ios developmnet and Deeplearning 
 
 - 👯 I’m looking to collaborate on deeplearning or making Ios app  
--
+
 - 📫 How to reach me: [Linkdin](https://linkedin.com/in/muhammad-umer-zia)
 
 
