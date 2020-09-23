@@ -10,10 +10,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on deeplearning , machine learning 
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: [Linkdin - @muhammadumerzia](https://linkdin.com/in/muhammad-umer-zia)
+- 📫 How to reach me: [Linkdin - @muhammadumerzia](www.linkedin.com/in/muhammad-umer-zia)
 
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzia-7001&layout=compact?&theme=radical)
+
 ![umer's github stats](https://github-readme-stats.vercel.app/api?username=umerzia-7001)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzia-7001&layout=compact?&theme=radical)
+
