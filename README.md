@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on Ios development and Deeplearning 
+- 🔭 I’m currently working on computer vision ,Ios development and Deeplearning 
 
--  I’m looking to collaborate on deeplearning or making Ios app  
+-  I’m looking to collaborate on deeplearning or  Ios development.
 
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/muhammad-umer-zia)
 
