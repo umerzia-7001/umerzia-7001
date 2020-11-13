@@ -7,7 +7,10 @@
 <p align="center">
  <a href="https://www.instagram.com/mumerzia/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>&nbsp;
  <a href="https://linkedin.com/in/muhammad-umer-zia"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>&nbsp;
-  
+ 
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/{umerzia-7001}/count.svg" />
+</p>`
 </p>
 <p align="center">
  <img align="center" alt="visitors" src="https://gpvc.arturio.dev/umerzia-7001" />
