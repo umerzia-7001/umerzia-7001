@@ -13,9 +13,7 @@
   <img src="https://profile-counter.glitch.me/{umerzia-7001}/count.svg" />
 </p>`
 </p>
-<p align="center">
- <img align="center" alt="visitors" src="https://gpvc.arturio.dev/umerzia-7001" />
-</p>
+
 - 🔭 I’m currently working on computer vision ,Ios development and Deeplearning 
 
 -  🤝  looking to collaborate on deeplearning or Ios development.
