@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ## I am Umer Zia 
-### Enthusiast  learner available for collaborating on any project . Hit me up to collaborate !
+### Enthusiast  learner available for collaborating on any project . Hit me up to collaborate!
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) 
 
 
