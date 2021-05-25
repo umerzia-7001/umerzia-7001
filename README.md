@@ -2,7 +2,7 @@
 
 ## I am Umer Zia 
 ### Enthusiast  learner available for collaborating on any project . Hit me up to collaborate!
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) 
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966) 
 
 
 <p align="center">
