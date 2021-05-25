@@ -4,7 +4,7 @@
 ### Enthusiast  learner available for collaborating on any project . Hit me up to collaborate!
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
- <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+ 
 
 <p align="center">
  <a href="https://www.instagram.com/mumerzia/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>&nbsp;
@@ -20,7 +20,7 @@
 -  🤝  looking to collaborate on deeplearning or Ios development.
 
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzia-7001&layout=compact?&theme=radical)
