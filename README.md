@@ -2,9 +2,10 @@
 
 ## I am Umer Zia 
 <p align="left"> 
-# I can myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engieer.
-# Hit me up to collaborate!
+ I can myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engieer.
+ Hit me up to collaborate!
 </p>
+
  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
  
 
