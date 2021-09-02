@@ -2,7 +2,6 @@
 
 ## Umer here.
 <p align="left"> 
-
  I call myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engineer.
  Hit me up to collaborate!
  
@@ -24,9 +23,7 @@
 
 -  🤝  looking to collaborate on app development or AI .
 
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzia-7001&layout=compact?&theme=radical)
 
