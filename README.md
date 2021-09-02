@@ -1,7 +1,8 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
+## Umer here.
 <p align="left"> 
- I am Umer  
+
  I call myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engieer.
  Hit me up to collaborate!
  
