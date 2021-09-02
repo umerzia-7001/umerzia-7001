@@ -3,7 +3,7 @@
 ## Umer here.
 <p align="left"> 
 
- I call myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engieer.
+ I call myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engineer.
  Hit me up to collaborate!
  
 </p>
