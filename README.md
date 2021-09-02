@@ -1,10 +1,10 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ## I am Umer Zia 
-
-## I can myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engieer.
-## Hit me up to collaborate!
-
+<p align="left"> 
+# I can myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engieer.
+# Hit me up to collaborate!
+</p>
  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
  
 
