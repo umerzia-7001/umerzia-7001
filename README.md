@@ -20,9 +20,9 @@
 </p>`
 </p>
 
-- 🔭 I’m currently working on computer vision ,Ios development and Deeplearning 
+- 🔭 I’m currently working on Flutter and ios development 
 
--  🤝  looking to collaborate on deeplearning or Ios development.
+-  🤝  looking to collaborate on app development or AI .
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
