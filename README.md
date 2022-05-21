@@ -20,8 +20,8 @@
 </p>
 
 - 🔭 I’m currently working on Flutter and ios development 
-
--  🤝  looking to collaborate on app development or AI .
+- Looking to dive into web development with MERN stack
+-  🤝  looking to collaborate on web/app development
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
