@@ -1,8 +1,8 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-## Umer here.
+## Umer here
 <p align="left"> 
- I call myself a passionate learner. You can call me a full-stack mobile & web developer or Machine Learning engineer.
+ I call myself a passionate learner. You can call me a full-stack mobile & web developer.
  Hit me up to collaborate!
  
 </p>
