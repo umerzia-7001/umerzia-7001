@@ -23,7 +23,8 @@
 - Looking to dive into web development with MERN stack
 -  🤝  looking to collaborate on web/app development
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
 
 
 
