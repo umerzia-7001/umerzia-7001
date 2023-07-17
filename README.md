@@ -1,13 +1,12 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi 👋, Umer here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-## Umer here
 <p align="left"> 
- I call myself a passionate learner. You can call me a full-stack mobile & web developer.
- Hit me up to collaborate!
+ I call myself a passionate learner. You can call me a full-stack mobile & web developer.<br>
+  ☞ Connect with me: <a href = "https://www.linkedin.com/in/muhammad-umer-zia/">LinkedIn</a> ☜ <br>
  
 </p>
 
- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/yItlPGh.png" /></a>
  
 
 <p align="center">
@@ -31,7 +30,7 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="HTML5" width="35px" 
+<img align="c" alt="HTML5" width="35px" 
 src="https://camo.githubusercontent.com/064583e4d3473a4cfd8a68f1346cb3830a7b737c016332f88c7068fa0732818c/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e64394763514655466b5a657a4f7869777249414d6c534d7038754c35626b38324e3137587a4d4b5126757371703d434155" />
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
