@@ -1,7 +1,7 @@
 <h2>Hi 👋, Umer here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <p align="left"> 
- I call myself a passionate learner. You can call me a full-stack mobile & web developer.<br>
+ I call myself a passionate developer. You can call me a full-stack mobile & web developer.<br>
   ☞ Connect with me: <a href = "https://www.linkedin.com/in/muhammad-umer-zia/">LinkedIn</a> ☜ <br>
  
 </p>
@@ -18,12 +18,10 @@
 </p>`
 </p>
 
-- 🔭 I’m currently working on Flutter and ios development 
-- Looking to dive into web development with MERN stack
--  🤝  looking to collaborate on web/app development
+- 🔭 I’m currently working on Flutter and MERN stack
+-  🤝 Looking to collaborate on Web or App development
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-
 
 
 
