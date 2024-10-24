@@ -6,9 +6,6 @@
  
 </p>
 
-<a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/yItlPGh.png" /></a>
- 
-
 <p align="center">
  <a href="https://www.instagram.com/mumerzia/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>&nbsp;
  <a href="https://linkedin.com/in/muhammad-umer-zia"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>&nbsp;
@@ -20,9 +17,6 @@
 
 - 🔭 I’m currently working on Flutter and MERN stack
 -  🤝 Looking to collaborate on Web or App development
-
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-
 
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
