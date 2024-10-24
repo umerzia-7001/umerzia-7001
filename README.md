@@ -1,4 +1,4 @@
-<h2>Hi 👋, Umer here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi, Umer here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <p align="left"> 
  I call myself a passionate developer. You can call me a full-stack mobile & web developer.<br>
